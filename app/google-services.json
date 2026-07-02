@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "598809712545",
+    "project_id": "appmakkie",
+    "storage_bucket": "appmakkie.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598809712545:android:ca6ae4371b9a3f8d18dde0",
+        "android_client_info": {
+          "package_name": "com.example.appmakkie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd6FbvbLB9w-Rq-QZOpOaNqBy-0388WuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

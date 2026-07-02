@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">All Here</string>
+    <string name="fresh_fruits">Fresh fruits</string>
+    <string name="bur_ger">Burger</string>
+    <string name="ice_cream">Ice cream</string>
+    <string name="dry_fruits">Dry fruits</string>
+    <string name="bever_ages">Beverages</string>
+    <string name="dess_erts">Desserts</string>
+
+
+
+    <string name="a_apple">Apple</string>
+    <string name="b_banana">Banana</string>
+    <string name="o_orange">Orange</string>
+    <string name="m_mango">Mango</string>
+    <string name="d_drinks">Coca Cola</string>
+
+
+
+</resources>
